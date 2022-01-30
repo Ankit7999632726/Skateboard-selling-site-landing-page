@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+}
+#left{
+    background-color:whitesmoke;
+    height: 100%;
+    width: 70%;
+    position: absolute;
+
+}
+#nav{
+    display: flex;
+    position: absolute;
+    height: 5%;
+    width: 280%;
+    justify-content: space-between;
+    margin-top: 12px;
+    margin-left: 8px;
+}
+#link{
+    word-spacing: 15px;
+    
+    top: 35%;
+    position: relative;
+    left: 5%;
+}
+a{
+    
+    color: black;
+    font-weight: 300;
+}
+ .yes{
+     text-decoration: none;
+ }
+#jib{
+    font-weight: 700;
+}
+#menu{
+    font-size: 190%;
+}
+#head{
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+#left h2{
+    font-size: 48px;
+    position: absolute;
+    left: 13%;
+    top: 23%;
+    font-weight: 900;
+}
+#pa{
+    
+    height: 40%;
+    width: 40%;
+    position: absolute;
+    left: 10%;
+    
+    top: 35%;
+    color: gray;
+    letter-spacing: 1px;
+}
+
+#b{
+    position: absolute;
+    left: 10%;
+    top: 55%;
+    font-size: 18px;
+    display: flex;  
+      
+}
+#c{
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    font-size: 18px;
+}
+#bar{
+    position: absolute;
+    left: 10%;
+    top: 58%;
+    height: 10px;
+    width: 105px;
+    background-color: rgb(212, 200, 200);
+}    
+#sub{
+    height: 10px;
+    width: 60px;
+    background-color: gray;
+}
+#e{
+    position: absolute;
+    left: 32%;
+    top: 55%;
+    font-size: 18px;
+    display: flex;  
+      
+}
+#f{
+    position: absolute;
+    left: 42%;
+    top: 55%;
+    font-size: 18px;
+}
+#abar{
+    position: absolute;
+    left: 32%;
+    top: 58%;
+    height: 10px;
+    width: 105px;
+    background-color: rgb(212, 200, 200);
+}    
+#asub{
+    height: 10px;
+    width: 30px;
+    background-color: gray;
+}
+#g{
+    position: absolute;
+    left: 10%;
+    top: 65%;
+    font-size: 18px;
+    display: flex;  
+      
+}
+#h{
+    position: absolute;
+    left: 20%;
+    top: 65%;
+    font-size: 18px;
+}
+#bbar{
+    position: absolute;
+    left: 10%;
+    top: 68%;
+    height: 10px;
+    width: 105px;
+    background-color: rgb(212, 200, 200);
+}    
+#bsub{
+    height: 10px;
+    width: 80px;
+    background-color: gray;
+}
+#i{
+    position: absolute;
+    left: 32%;
+    top: 65%;
+    font-size: 18px;
+    display: flex;  
+      
+}
+#j{
+    position: absolute;
+    left: 42%;
+    top: 65%;
+    font-size: 18px;
+}
+#cbar{
+    position: absolute;
+    left: 32%;
+    top: 68%;
+    height: 10px;
+    width: 105px;
+    background-color: rgb(212, 200, 200);
+}    
+#csub{
+    height: 10px;
+    width: 60px;
+    background-color: gray;
+}
+#right{
+    background-color: rgb(153, 170, 221);
+    height: 100%;
+    width: 30%;
+    right: 0%;
+    position: absolute;
+}
+#share{
+    font-size: 150%;
+    margin-left: 10px;
+}    
+
+#linkk{
+    word-spacing: 40px;
+    z-index: 6;
+    right: -2%;
+    position: relative;
+}
+.hub{
+    text-decoration: none;
+    font-weight: 300;
+}
+#ricons{
+    height: 50%;
+    width: 50%;
+    right: 2%;
+    position: relative;
+    z-index: 6;
+    
+}
+#sea{
+    position: relative;
+}
+#board{
+    position: absolute;
+    right: -108px;
+    height: 121%;
+    bottom: -36%;
+    
+
+}
+#profile{
+    position: absolute;
+    left: 6%;
+    top: 75%;
+    width: 40%;
+}
+
+i{
+    bottom: 2%;
+    position: absolute;
+    margin-left: 10px;
+    
+}
+#ra{
+    background-color: rgb(237, 235, 241);
+    height: 50%;
+    width: 60%;
+    position: absolute;
+    right: 0;
+    top: 10%;
+}
+#he{
+    font-size: 20px;
+    position: relative;
+    left: 10%;
+    top: 10%;
+    font-family: sans-serif;
+}
+#snow{
+    height: 65%;
+    position: relative;
+    top: 15%;
+    left: 35%;
+}
+#year{
+    position: absolute;
+    color: rgb(97, 106, 236);
+    font-size: 40px;
+    left: 0%;
+    top:55%;
+    transform: rotate(90deg);
+}
+#line{
+    display: flex;
+    height: 5%;
+    top: 69%;
+    align-items: center;
+    left: 35%;
+    position: relative;
+}
+#bla{
+    background-color: gray;
+    height: 13%;
+    width: 25%;
+    margin: 2% 2%;
+}
+#blaa{
+    background-color: black;
+    height: 100%;
+    width: 20%;
+}
+#nub{
+    font-size: 150%;
+}
+#nuub{
+    font-size: 150%;
+}
+#vid{
+    height: 50%;
+    width: 60%;
+}
+#viid{
+    height: 50%;
+    position: relative;
+    top: 150%;
+    left: 0%;
+}
+#lul{
+    position: absolute;
+    z-index: 5;
+    left: 18%;
+    font-size: 300%;
+    bottom: 5%;
+}
